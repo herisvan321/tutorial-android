@@ -177,5 +177,5 @@ class CalculatorActivity : AppCompatActivity() {
 Proyek ini mengajarkan prinsip dasar Android: **Layout Management** menggunakan `GridLayout` untuk antarmuka tombol yang kompleks dan **State Management** untuk menangani urutan input aritmatika secara dinamis.
 
 ## 5. Hasil
-Aplikasi berhasil dibuat dengan dua layar: kalkulator dasar dan kalkulator lengkap. Setelah menekan tombol **Run**, Anda dapat melakukan perhitungan presisi tinggi dengan antarmuka yang profesional dan responsif.
-![Lengkap](ss_lengkap.png)
+Aplikasi berhasil dibuat dengan dua layar: kalkulator dasar dan kalkulator lengkap. Setelah menekan tombol **Run**, Anda dapat melakukan perhitungan presisi tinggi dengan antarmuka yang profesional dan responsif.<br>
+<img src="ss_lengkap.png" width="30%">
