@@ -10,7 +10,7 @@ Modul ini adalah panduan teknis untuk membangun aplikasi kalkulator dengan antar
 3. Nama proyek: `kalkulator`, Bahasa: **Kotlin**.
 4. Klik **Finish** dan tunggu proses sinkronisasi Gradle selesai.
 
-## 2. Desain Antarmuka (`activity.xml`)
+## 2. Desain Antarmuka (`activity_main.xml`)
 Menggunakan `GridLayout` dengan gaya *borderless* untuk memberikan tampilan modern dan bersih.
 
 ```xml
@@ -77,7 +77,7 @@ Menggunakan `GridLayout` dengan gaya *borderless* untuk memberikan tampilan mode
 </LinearLayout>
 ```
 
-## 3. Logika Pemrograman (`Activity.kt`)
+## 3. Logika Pemrograman (`MainActivity.kt`)
 Logika utama menggunakan state management untuk memisahkan input angka dan operator matematika.
 
 ```kotlin
@@ -89,7 +89,7 @@ import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 import java.text.DecimalFormat
 
-class Activity : AppCompatActivity() {
+class MainActivity : AppCompatActivity() {
 
     private var input1: String = ""
     private var input2: String = ""
