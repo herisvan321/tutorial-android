@@ -98,7 +98,7 @@ class MainActivity : AppCompatActivity() {
     }
 }
 ```
-
+<br><img src="ss_ho.png" width="30%">
 ---
 
 ## 3. Implementasi RecyclerView
@@ -238,7 +238,7 @@ class RecyclerViewActivity : AppCompatActivity() {
     }
 }
 ```
-
+<br><img src="ss_re.png" width="30%">
 ---
 
 ## 4. Implementasi SharedPreferences
@@ -335,7 +335,7 @@ class SharedPreferences : AppCompatActivity() {
     }
 }
 ```
-
+<br><img src="ss_se.png" width="30%">
 ---
 
 ## 5. Implementasi SQLite
@@ -486,7 +486,7 @@ class SQLite : AppCompatActivity() {
     }
 }
 ```
-
+<br><img src="ss_sq.png" width="30%">
 ---
 
 ## 6. Menjalankan Aplikasi (Run)
