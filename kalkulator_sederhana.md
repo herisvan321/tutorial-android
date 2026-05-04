@@ -171,3 +171,8 @@ class MainActivity : AppCompatActivity() {
 
 ## 4. Kesimpulan
 Proyek ini mengajarkan prinsip dasar Android: **View Binding** (findViewById), **Intent** (navigasi), **Event Handling** (setOnClickListener), dan **Layout Management**. Anda kini memiliki fondasi kuat untuk mengembangkan aplikasi Android yang lebih kompleks!
+
+## 5. Hasil
+| Tambah | Kurang | Bagi | Kali |
+| :---: | :---: | :---: | :---: |
+| ![Tambah](ss_tambah.png) | ![Kurang](ss_kurang.png) | ![Bagi](ss_bagi.png) | ![Kali](ss_kali.png) |
