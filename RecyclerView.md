@@ -173,3 +173,4 @@ class MainActivity : AppCompatActivity() {
 
 ---
 **Catatan**: Pastikan nama package dan ID layout sudah sesuai dengan yang Anda buat di Android Studio.
+<br> <img src="ss_re.png" width="30%">
